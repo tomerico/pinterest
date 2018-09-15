@@ -8,7 +8,7 @@ class Card extends Component {
     return (
       <div className="Card">
         <div className="CardWrapper"> 
-           <img src={require('./../../../Media/Images/5a822714ef48e.jpg')}/>  
+           <img src={this.props.imageFromMasonry}/>  
         </div>
       </div>
     );

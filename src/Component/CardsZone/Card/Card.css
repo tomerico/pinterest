@@ -1,6 +1,7 @@
 .Card {
 
-    width:256px;   
+    width:256px;
+    /* display: inline-block;    */
 }
 
 .CardWrapper{
@@ -18,6 +19,6 @@
 .Card img{
 
     width:236px;
-    height: 352px;
+    /* height: 352px; */
     border-radius: 5px;
 }
